@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login-katalondemo</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e24ab90d-210b-4492-acd9-d6bdc8ecc095</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>6b201595-153d-43ce-a71f-aff94e265f9a</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value>2-2</value>
+      </iterationEntity>
+      <testDataId>Data Files/Logintable</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>6b201595-153d-43ce-a71f-aff94e265f9a</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>url</value>
+      <variableId>79a40375-66a0-4a5a-8ff2-ca1f05fd4cad</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>6b201595-153d-43ce-a71f-aff94e265f9a</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>username</value>
+      <variableId>4952fdd5-380e-4b9e-82b4-b5bea61edd05</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>6b201595-153d-43ce-a71f-aff94e265f9a</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>password</value>
+      <variableId>a4d77525-e3ec-4f47-a9d5-71d98d1178b0</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>79a40375-66a0-4a5a-8ff2-ca1f05fd4cad</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4952fdd5-380e-4b9e-82b4-b5bea61edd05</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a4d77525-e3ec-4f47-a9d5-71d98d1178b0</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

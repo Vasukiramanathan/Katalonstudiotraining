@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkpoint>
+   <description></description>
+   <name>Democheck1</name>
+   <tag></tag>
+   <source-info>
+      <is-from-test-data>true</is-from-test-data>
+      <source-url>Data Files/Logintable</source-url>
+   </source-info>
+   <taken-date>2023-07-05T10:53:32.882</taken-date>
+   <column-names>
+      <column-name>url</column-name>
+      <column-name>username</column-name>
+      <column-name>password</column-name>
+   </column-names>
+   <checkpoint-data><![CDATA[[
+  [
+    {
+      "value": "https://katalon-demo-cura.herokuapp.com/",
+      "checked": true
+    },
+    {
+      "value": "John Doe",
+      "checked": true
+    },
+    {
+      "value": "g3/DOGG74jC3Flrr3yH+3D/yKbOqqUNM",
+      "checked": true
+    }
+  ]
+]]]></checkpoint-data>
+</checkpoint>

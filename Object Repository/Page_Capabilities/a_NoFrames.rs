@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_NoFrames</name>
+   <tag></tag>
+   <elementGuidId>90d0da43-2d3f-4d79-ab76-dee4317ca949</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.subNav > ul.navList > li:nth-of-type(2) > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'No Frames')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>eda0f153-d159-4993-bb76-41dc7203c91c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>Capabilities.html</value>
+      <webElementGuid>f65ef9a7-a82b-4df1-b1ca-c824b0354a05</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_top</value>
+      <webElementGuid>12d9c988-f78c-4f5f-ad83-8df99f6979fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>No Frames</value>
+      <webElementGuid>660497c7-bc34-4270-82ed-3b0af3c55cd7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/header[1]/nav[1]/div[@class=&quot;fixedNav&quot;]/div[@class=&quot;subNav&quot;]/ul[@class=&quot;navList&quot;]/li[2]/a[1]</value>
+      <webElementGuid>3b734fdb-d5aa-403d-95de-e320d68ba9f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Capabilities/iframe_classFrame</value>
+      <webElementGuid>f15b50e7-63e9-4373-8e4d-c19a89b3eacf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'No Frames')]</value>
+      <webElementGuid>20159187-d76e-438f-9335-3020f1131392</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Frames'])[1]/following::a[1]</value>
+      <webElementGuid>218dd3c6-66fe-413e-a004-2c641b620e08</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Help'])[1]/following::a[2]</value>
+      <webElementGuid>73b2082e-5555-4c80-9ade-068a32d20728</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All Classes'])[1]/preceding::a[1]</value>
+      <webElementGuid>3270271b-19a8-43c9-9baf-62c71fc70283</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SEARCH:'])[1]/preceding::a[2]</value>
+      <webElementGuid>aecf76d8-ac0f-4d58-97da-cf45ae999290</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='No Frames']/parent::*</value>
+      <webElementGuid>22e20dbe-4fc8-491e-aa67-8484ca57222b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'Capabilities.html')])[3]</value>
+      <webElementGuid>ac3f914e-888b-447f-8097-2dc86e95f257</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/ul/li[2]/a</value>
+      <webElementGuid>917e3028-1a21-4e9d-a64e-19266152b3b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'Capabilities.html' and (text() = 'No Frames' or . = 'No Frames')]</value>
+      <webElementGuid>9c89c6f8-bbe3-492d-9ee5-c3e040f37600</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
